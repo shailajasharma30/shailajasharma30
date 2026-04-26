@@ -1,8 +1,8 @@
-# About Me:
+# 💫 About Me:
 Heyo, I'm Shailaja Sharma<br><br>🎓 B.Tech CSE (2nd Year)<br>💻 Aspiring Developer passionate about Web Development & Problem Solving<br>🚀 Exploring AI/ML, Blockchain, and Cloud Technologies
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shailaja__sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharma30shailaja@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailaja-sharma3326/) 
 
